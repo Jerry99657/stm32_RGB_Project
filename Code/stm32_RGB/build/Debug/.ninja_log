@@ -1,0 +1,29 @@
+# ninja log v5
+94	3605	7854432504383726	CMakeFiles/LED.dir/Core/Src/sysmem.c.obj	bb30e3fbb30ef0fb
+2	175	7854440118536100	CMakeFiles/LED.dir/Core/Src/main.c.obj	dc4612bc66d4c5f
+136	41162	7854432880068002	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	613f2c89c4c33ae1
+115	41279	7854432881237583	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	8ea8e72557ed0eef
+3597	3774	7854432506179426	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	81cefc1a21552d2a
+100	4636	7854432514776011	CMakeFiles/LED.dir/Core/Src/system_stm32f1xx.c.obj	61f707af68204800
+3628	3788	7854432506305423	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	770a1da5f70d6e10
+141	40925	7854432877690242	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	bdce976b44aeeb71
+147	40614	7854432874565276	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	6b91006cefc93bbc
+153	4622	7854432514647665	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	2b70b80f49463612
+75	41223	7854432880672372	CMakeFiles/LED.dir/Core/Src/stm32f1xx_hal_msp.c.obj	18234b9e041976c1
+109	40865	7854432877083154	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	ef0c5859d354be3
+3605	3769	7854432506134612	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	7571f17896715358
+121	4642	7854432514830993	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	14879c7723e0e19a
+80	3633	7854432504718258	CMakeFiles/LED.dir/Core/Src/stm32f1xx_it.c.obj	f8e428ac5e9397e2
+3633	3799	7854432506426447	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	8c9e04b09c1a9640
+159	3628	7854432504705550	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	1db54768d430443f
+3770	3924	7854432507675259	CMakeFiles/LED.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	ca765ac4150b0ecf
+3774	3837	7854432506825228	CMakeFiles/LED.dir/startup_stm32f103xb.s.obj	e738ed2067fad69
+87	3596	7854432504404284	CMakeFiles/LED.dir/Core/Src/syscalls.c.obj	2261063c809027b2
+175	324	7854440119746858	LED.elf	c660b8e1e5d4befa
+48	40984	7854432878269286	CMakeFiles/LED.dir/Core/Src/dma.c.obj	6a7cfddc6b6ee830
+58	4621	7854432514632732	CMakeFiles/LED.dir/Core/Src/gpio.c.obj	67d95f0ac92ac977
+105	41372	7854432882153981	CMakeFiles/LED.dir/Core/Src/tim.c.obj	a9ccfab19a9a2710
+2	176	7854437319216087	CMakeFiles/LED.dir/Core/Src/WS2812.c.obj	9f70a5c09cee4e9
+3	274	7950272712175878	build.ninja	d8a9f93c8bd23a10
+3	274	7950272712145979	D:/STM32/stm32cubemx_project/vscode/stm32f103c8t6/6. ws2812/build/Debug/cmake_install.cmake	d8a9f93c8bd23a10
+3	274	7950272712155941	D:/STM32/stm32cubemx_project/vscode/stm32f103c8t6/6. ws2812/build/Debug/cmake/stm32cubemx/cmake_install.cmake	d8a9f93c8bd23a10
