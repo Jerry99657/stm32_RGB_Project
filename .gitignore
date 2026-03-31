@@ -1,0 +1,14 @@
+# build artifacts
+build/
+Code/**/build/
+**/build/
+
+# Ninja
+.ninja_log
+.ninja_deps
+
+# Debug/Release outputs
+Debug/
+Release/
+**/Debug/
+**/Release/
